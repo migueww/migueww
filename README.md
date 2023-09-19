@@ -1,7 +1,7 @@
 # 👋 Hello, world!
 ## My name is Miguel and my nickname is "Mikaé"!
 
-- 💀 Desempregado;
+- 💀 Freelas;
 - 🔭 Estou atualmente trabalhando com PHP em meus projetos;
 - 😎 Autodidata profissional haha;
 - 😄 Amo humor, jogos, filmes antigos e café!;
