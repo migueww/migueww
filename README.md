@@ -2,17 +2,17 @@
 ## My name is Miguel and my nickname is "Mikaé"!
 
 - 💀 Freelas;
-- 🔭 Estou atualmente trabalhando com PHP em meus projetos;
+- 🔭 Atualmente trabalho com PHP em meus projetos;
 - 😎 Autodidata profissional haha;
-- 😄 Amo humor, jogos, filmes antigos e café!;
+- 😄 Amo humor, jogos, filmes antigos e café;
 
 
 - ⚡ Skills{
   - PHP        = ⭐⭐⭐⭐⭐;
-  - Javascript = ⭐⭐⭐;
+  - Javascript = ⭐⭐⭐⭐;
   - Python     = ⭐⭐⭐⭐;
   - Java       = ⭐⭐;
-  - HTML5      = ⭐⭐⭐⭐;
+  - HTML5      = ⭐⭐⭐⭐⭐;
   - CSS3       = ⭐⭐⭐⭐;
 
 };
