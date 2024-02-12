@@ -8,12 +8,22 @@
 
 
 - ⚡ Skills{
-  - PHP        = ⭐⭐⭐⭐⭐;
-  - Javascript = ⭐⭐⭐⭐;
-  - Python     = ⭐⭐⭐⭐;
-  - Java       = ⭐⭐;
-  - HTML5      = ⭐⭐⭐⭐⭐;
-  - CSS3       = ⭐⭐⭐⭐;
+
+PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
+
+- 🧐 Formação:
+
+- Análise e Desenvolvimento de Sistemas
+-   Instituto Federal de São Paulo - IFSP (cursando)
+
+- Tecnico em Desenvolvimento de Sistemas
+-   Etec Raposo Tavares
+
+## Contato
+
+- **E-mail**: miguew.png@gmail.com
+- **LinkedIn**: [Miguel Barcellos](https://www.linkedin.com/in/miguel-barcellos-103b39262/)
+- **Website/Portfolio**: [miguew](https://migueww.github.io/portfolio/)
 
 };
 
