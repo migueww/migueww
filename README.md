@@ -14,10 +14,10 @@ PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
 - 🧐 Formação:
 
 - Análise e Desenvolvimento de Sistemas
--     Instituto Federal de São Paulo - IFSP (cursando)
+  -  Instituto Federal de São Paulo - IFSP (cursando)
 
 - Tecnico em Desenvolvimento de Sistemas
--     Etec Raposo Tavares
+  -  Etec Raposo Tavares
 
 ## Contato
 
