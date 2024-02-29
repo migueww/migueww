@@ -1,5 +1,5 @@
 # 👋 Hello, world!
-## My name is Miguel and my nickname is "Mikaé"!
+## My name is Miguel and my nickname is "Miguew"!
 
 - 💀 Freelas;
 - 🔭 Atualmente trabalho com PHP em meus projetos;
@@ -14,7 +14,7 @@ PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
 - 🧐 Formação:
 
 - Análise e Desenvolvimento de Sistemas
-  -  Instituto Federal de São Paulo - IFSP (cursando)
+  -  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP (cursando)
 
 - Tecnico em Desenvolvimento de Sistemas
   -  Etec Raposo Tavares
