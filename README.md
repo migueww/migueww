@@ -7,25 +7,25 @@
 - 😄 Amo humor, jogos, filmes antigos e café;
 
 
-###⚡ Skills {
+- ⚡ Skills {
+
 PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
 };
 
-###🧐 Formação {
+- 🧐 Formação {
 
-- Análise e Desenvolvimento de Sistemas
-  -  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP (cursando)
+  - Análise e Desenvolvimento de Sistemas
+    -  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP (cursando)
 
-- Tecnico em Desenvolvimento de Sistemas
-  -  Etec Raposo Tavares
+  - Tecnico em Desenvolvimento de Sistemas
+    -  Etec Raposo Tavares
 };
 
-## Contato {
+- Contato {
 
-- **E-mail**: miguew.png@gmail.com
-- **LinkedIn**: [Miguel Barcellos](https://www.linkedin.com/in/miguel-barcellos-103b39262/)
-- **Website/Portfolio**: [miguew](https://migueww.github.io/portfolio/)
-
+  - **E-mail**: miguew.png@gmail.com
+  - **LinkedIn**: [Miguel Barcellos](https://www.linkedin.com/in/miguel-barcellos-103b39262/)
+  - **Website/Portfolio**: [miguew](https://migueww.github.io/portfolio/)
 };
 
 
