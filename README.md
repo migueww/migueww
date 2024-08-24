@@ -2,24 +2,25 @@
 ## My name is Miguel and my nickname is "Miguew"!
 
 - 💀 Freelas;
-- 🔭 Atualmente trabalho com PHP em meus projetos;
+- 🔭 Software Developer;
 - 😎 Autodidata profissional haha;
 - 😄 Amo humor, jogos, filmes antigos e café;
 
 
-- ⚡ Skills{
-
+###⚡ Skills {
 PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
+};
 
-- 🧐 Formação:
+###🧐 Formação {
 
 - Análise e Desenvolvimento de Sistemas
   -  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP (cursando)
 
 - Tecnico em Desenvolvimento de Sistemas
   -  Etec Raposo Tavares
+};
 
-## Contato
+## Contato {
 
 - **E-mail**: miguew.png@gmail.com
 - **LinkedIn**: [Miguel Barcellos](https://www.linkedin.com/in/miguel-barcellos-103b39262/)
