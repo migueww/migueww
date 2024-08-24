@@ -9,7 +9,8 @@
 
 - ⚡ Skills {
 
-PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
+  - PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
+
 };
 
 - 🧐 Formação {
@@ -19,6 +20,7 @@ PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
 
   - Tecnico em Desenvolvimento de Sistemas
     -  Etec Raposo Tavares
+      
 };
 
 - Contato {
@@ -26,6 +28,7 @@ PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
   - **E-mail**: miguew.png@gmail.com
   - **LinkedIn**: [Miguel Barcellos](https://www.linkedin.com/in/miguel-barcellos-103b39262/)
   - **Website/Portfolio**: [miguew](https://migueww.github.io/portfolio/)
+  
 };
 
 
