@@ -3,13 +3,13 @@
 
 - 💀 Freelas;
 - 🔭 Software Developer;
-- 😎 Autodidata profissional haha;
-- 😄 Amo humor, jogos, filmes antigos e café;
+- 😎 Autodidata profissional;
+- 😄 Curto humor, jogos e filmes antigos;
 
 
 - ⚡ Skills {
 
-  - PHP | Laravel | Python | Git | Javascript (ES6)| Html | Css | MySQL
+  - NodeJs | NextJs | React | Typescript | MongoDB | KoaJS | Fastify | Git
 
 };
 
