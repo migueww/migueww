@@ -43,4 +43,4 @@
 </div>
 
 
-![Snake animation](https://github.com/migueww/migueww/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/migueww/migueww/output/github-contribution-grid-snake.svg" />
