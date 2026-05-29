@@ -117,15 +117,12 @@ Current areas of focus:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=migueww&theme=github_dark)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=migueww&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueww&layout=compact&hide_border=true" />
-
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=migueww&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=migueww&theme=github_dark)
 
 ---
 
