@@ -4,7 +4,7 @@
 
 ### Backend Engineer • AI Systems • Building Coneqt 🚀
 
-*"I like building things that solve real problems."*
+*"Be water, my friend"*
 
 <br>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/miguel-barcellos-103b39262/">
+<a href="https://www.linkedin.com/in/miguel-duarte-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
