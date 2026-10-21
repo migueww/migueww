@@ -36,7 +36,7 @@ const miguel = {
     "AI-Powered Systems",
     "Software Architecture"
   ],
-  currentlyBuilding: "Coneqt",
+  currentlyBuilding: ["Coneqt", "Koi-app", "Clara-proposta"],
   interests: [
     "Distributed Systems",
     "AI Agents",
